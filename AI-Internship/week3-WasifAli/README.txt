@@ -122,7 +122,7 @@ python student_performance_model.py
 -------------------------------------------
 10. Presentation
 -------------------------------------------
-File: ML_Presentation_[YourName].pdf
+File: ML_Presentation_WasifAli.pdf
 
 Description:
 - 5–7 slides covering one ML algorithm.
